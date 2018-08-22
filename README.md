@@ -1,7 +1,7 @@
 # Chào Huyền, anh làm ở bộ phận Internet Security của công ty
 # Anh nhận được phản ánh em sử dụng project này mà chưa có sự cho phép của Nhà phát hành.
 # Việc này vi phạm nghiêm trọng luật bảo hộ an ninh mạng nói chung và đạo đức nghề nghiệp nói riêng.
-# *Yêu cầu em để lại số điện thoaị và địa chỉ facebook để anh làm việc*
+#  [Yêu cầu em để lại số điện thoaị và địa chỉ facebook để anh làm việc]
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.4.
